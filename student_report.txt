@@ -1,0 +1,10 @@
+Student Report:
+--------------------------
+Name: Rishabh              Marks:  99 Grade: A
+Name: Shagun               Marks:  98 Grade: A
+Name: Ayush                Marks:  50 Grade: C
+Name: Ayush                Marks:  50 Grade: C
+
+Topper: Rishabh (99)
+Lowest: Ayush (50)
+Class Average: 74.25
